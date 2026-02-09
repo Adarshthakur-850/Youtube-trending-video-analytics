@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can paste directly into your repo.
-
----
-
 # 📊 YouTube Trending Video Analysis
 
 A data analytics and machine learning project that analyzes **YouTube trending videos** to discover patterns behind popularity, engagement, and content performance across categories, regions, and time.
