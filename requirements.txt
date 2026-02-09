@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
@@ -6,3 +7,13 @@ seaborn
 plotly
 requests
 joblib
+=======
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+requests
+joblib
+>>>>>>> 7ffa54c5391df4d08257f88f232dda529a6dfd62
